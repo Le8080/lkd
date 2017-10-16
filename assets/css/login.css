@@ -1,0 +1,12 @@
+body {
+    background-image : url('../imgs/sea.jpg');
+    font-family : 'Arial';
+    }
+    
+.mdc-card{
+    width: 40%;
+    margin: 2em auto;
+    padding: -13px -9px 0px 0px;
+    padding-top: 10px;
+    padding: 38px;
+}
